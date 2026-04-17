@@ -1,4 +1,4 @@
-# Jackrong/GPT-5-Distill-Qwen3-4B-Instruct-GGUF - Private, Uncensored AI for Real Creators and Devs
+# Jackrong/GPT-5-Distill-Qwen3-4B-Instruct-GGUF  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
